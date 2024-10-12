@@ -1,0 +1,14 @@
+D:\CSharp_DataTypes\Ecommerce\Ecommerce\bin\Debug\net8.0\Ecommerce.exe
+D:\CSharp_DataTypes\Ecommerce\Ecommerce\bin\Debug\net8.0\Ecommerce.deps.json
+D:\CSharp_DataTypes\Ecommerce\Ecommerce\bin\Debug\net8.0\Ecommerce.runtimeconfig.json
+D:\CSharp_DataTypes\Ecommerce\Ecommerce\bin\Debug\net8.0\Ecommerce.dll
+D:\CSharp_DataTypes\Ecommerce\Ecommerce\bin\Debug\net8.0\Ecommerce.pdb
+D:\CSharp_DataTypes\Ecommerce\Ecommerce\obj\Debug\net8.0\Ecommerce.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp_DataTypes\Ecommerce\Ecommerce\obj\Debug\net8.0\Ecommerce.AssemblyInfoInputs.cache
+D:\CSharp_DataTypes\Ecommerce\Ecommerce\obj\Debug\net8.0\Ecommerce.AssemblyInfo.cs
+D:\CSharp_DataTypes\Ecommerce\Ecommerce\obj\Debug\net8.0\Ecommerce.csproj.CoreCompileInputs.cache
+D:\CSharp_DataTypes\Ecommerce\Ecommerce\obj\Debug\net8.0\Ecommerce.dll
+D:\CSharp_DataTypes\Ecommerce\Ecommerce\obj\Debug\net8.0\refint\Ecommerce.dll
+D:\CSharp_DataTypes\Ecommerce\Ecommerce\obj\Debug\net8.0\Ecommerce.pdb
+D:\CSharp_DataTypes\Ecommerce\Ecommerce\obj\Debug\net8.0\Ecommerce.genruntimeconfig.cache
+D:\CSharp_DataTypes\Ecommerce\Ecommerce\obj\Debug\net8.0\ref\Ecommerce.dll
